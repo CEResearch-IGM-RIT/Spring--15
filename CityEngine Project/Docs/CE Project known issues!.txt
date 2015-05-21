@@ -1,0 +1,17 @@
+Potential Solutions to Issues:
+1 - Speak to a boost expert regarding the issues below
+2a - // MIGHT BE FIXED:::Get VS2010 on the research lab computer so I can build the plugin (ran into build-tools error)
+
+UNRESOLVED PROBLEMS:
+- BOOST/INCLUDE FOLDER
+- BOOST && PRTX #includes failing @ compile_time: will double check directories
+- Many of the build instructions require use of cmd in the C:\ directory which appears to be inaccessible from cmd on the research computers.
+
+
+THESE ARE SOME ISSUES WHICH I ENCOUNTERED IN THE PROCESS OF WORKING ON THIS PROJECT!
+NOTES: 
+- From this it was determined that we need VS 2010. We also need the correct version of Boost and need to 
+follow the instructions exactly
+- Possible issues you may encounter, inability to create builds due to building on one of the lab computers. 
+Might help to not use a networked computer and be able to access the C:/ Drive via command line.
+If you cannot access C:/ via CMD, you will not be able to build the application

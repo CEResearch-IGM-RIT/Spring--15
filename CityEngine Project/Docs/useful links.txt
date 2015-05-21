@@ -1,0 +1,19 @@
+How to make a Unity C# Plugin 
+(Gives some perspective on how plugins work if you feel like messing with the plugin code)
+https://www.youtube.com/watch?v=uFjiNkYhBvY
+
+CityEngineTV Youtube Channel - Great place for CE tutorials, but I personally would recommend the next link!
+https://www.youtube.com/channel/UCq_4ineLg8X0_w6uqWcWxhQ
+
+Learning CityEngine, Tutorials and other Training
+https://geonet.esri.com/thread/98589
+
+Writing Rule Files, Scripting, and other Documentation for CE -> UNDER Manual
+http://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html
+More Useful information regarding Rules (see above)
+-  UNDER Rule-based Modeling -> Basics of Rule-based Modeling -> (Shapes + Rule Application)
+For Custom Python Scripting for Exports / CE API for Python
+-  UNDER Python Scripting -> Commands By Category
+-  TO ACCESS PYTHON SCRIPTING IN CE, CLICK Window->Show Console
+
+REFER TO GITHUB ORG FOR ACCESS TO ESRI'S CE SDK!

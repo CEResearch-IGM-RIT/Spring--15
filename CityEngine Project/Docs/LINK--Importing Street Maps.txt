@@ -1,0 +1,21 @@
+This Information can also be found in the Good Resources folder
+-----------------------------------------------------------------------------------------------------------
+To import the Malmo GDB
+Go to this page for the CE Manual which is very well documented
+- http://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html
+- Go to Manual -> Street Networks -> Importing Graph Networks -> Importing Graph Segments from GDB
+*NOTABLY THERE ARE OTHER TYPES OF IMPORTS AVAILABLE. THESE MAY BE WORTH LOOKING INTO
+You will NOT be able to copy the buildings of Malmo exactly using this. You may use CGA Rules as per the below 
+to create Malmo-esque buildings however, or you may use Maya or another 3D modeling program to attempt to create
+buildings. Just know CE generates PROCEDURAL Buildings based upon the open spaces along streets in the street 
+map you provide it, imported or not.
+
+Additionally:
+-----------------------------------------------------------------------------------------------------------
+Writing Rule Files, Scripting, and other Documentation for CE -> UNDER Manual
+http://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html
+More Useful information regarding Rules (see above)
+-  UNDER Manual -> Rule-based Modeling -> Basics of Rule-based Modeling -> (Shapes + Rule Application)
+For Custom Python Scripting for Exports / CE API for Python
+-  UNDER Manual -> Python Scripting -> Commands By Category
+-  TO ACCESS PYTHON SCRIPTING IN CE, CLICK Window -> Show Console
